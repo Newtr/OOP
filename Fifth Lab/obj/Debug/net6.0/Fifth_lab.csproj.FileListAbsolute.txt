@@ -1,0 +1,15 @@
+D:\Документы БГТУ\C# Labs\Fifth_lab\bin\Debug\net6.0\Fifth_lab.exe
+D:\Документы БГТУ\C# Labs\Fifth_lab\bin\Debug\net6.0\Fifth_lab.deps.json
+D:\Документы БГТУ\C# Labs\Fifth_lab\bin\Debug\net6.0\Fifth_lab.runtimeconfig.json
+D:\Документы БГТУ\C# Labs\Fifth_lab\bin\Debug\net6.0\Fifth_lab.dll
+D:\Документы БГТУ\C# Labs\Fifth_lab\bin\Debug\net6.0\Fifth_lab.pdb
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\Fifth_lab.csproj.AssemblyReference.cache
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\Fifth_lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\Fifth_lab.AssemblyInfoInputs.cache
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\Fifth_lab.AssemblyInfo.cs
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\Fifth_lab.csproj.CoreCompileInputs.cache
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\Fifth_lab.dll
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\refint\Fifth_lab.dll
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\Fifth_lab.pdb
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\Fifth_lab.genruntimeconfig.cache
+D:\Документы БГТУ\C# Labs\Fifth_lab\obj\Debug\net6.0\ref\Fifth_lab.dll
