@@ -1,7 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-
-Internet_Resourse<string> My_Resourses = new();
+namespace Task
+{
+    public class Programm_Task_Main
+    {
+        static void Main()
+        {
+            Internet_Resourse<string> My_Resourses = new();
 My_Resourses.Add("Onliner.by");
 My_Resourses.Add("Electro Sila");
 My_Resourses.Add("Evroopt");
@@ -27,8 +32,10 @@ foreach (string item in New_Resourses)
 {
     Console.WriteLine($"Новый объект:{item}");
 }
+        }
+    }
 
-class Internet_Resourse<T> : IList<T>
+public class Internet_Resourse<T> : IList<T>
 {
     private T[] List_Example = new T[0];
 
@@ -164,3 +171,4 @@ class Internet_Resourse<T> : IList<T>
 
 }
 
+}
